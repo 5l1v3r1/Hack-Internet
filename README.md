@@ -18,11 +18,10 @@ Facebook : https://m.facebook.com/shubham.gosain.980
 
 Telegram : https://t.me/ShuBham_g0sain
 
+### installation
 
 git clone https://github.com/ShuBhamg0sain/Hack-Internet
 
 cd Hack-Internet
-
-pip3 install -r requirements.txt
 
 python3 hack.py
