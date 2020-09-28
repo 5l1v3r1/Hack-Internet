@@ -24,4 +24,4 @@ git clone https://github.com/ShuBhamg0sain/Hack-Internet
 
 cd Hack-Internet
 
-python3 hack.py
+python2 hack.py
